@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT">
+  <diagram id="post-wireframe" name="Page-1">
+    <mxGraphModel dx="1338" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="890" width="870" x="65" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=23;fillColor=#ffffff;fontStyle=1;" value="投稿編集" vertex="1">
+          <mxGeometry height="72" width="335" x="115" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#ffffff;" value="タイトル" vertex="1">
+          <mxGeometry height="72" width="250" x="115" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="72" width="495" x="390" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#ffffff;" value="カテゴリ" vertex="1">
+          <mxGeometry height="72" width="250" x="115" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;fillColor=#ffffff;" value="お知らせ ／ 技術メモ ／ 雑記" vertex="1">
+          <mxGeometry height="72" width="495" x="390" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fillColor=#ffffff;" value="本文" vertex="1">
+          <mxGeometry height="72" width="250" x="115" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="250" width="495" x="390" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=23;fillColor=#ffffff;fontStyle=1;" value="更新" vertex="1">
+          <mxGeometry height="90" width="315" x="115" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=21;fillColor=#ffffff;" value="キャンセル" vertex="1">
+          <mxGeometry height="90" width="315" x="480" y="720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

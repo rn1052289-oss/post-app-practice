@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="mhtmbGzUhVW0aQWzLS4x">
+    <mxGraphModel dx="1720" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yuEvlZflwEZV-v_yrI04-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=7;" value="" vertex="1">
+          <mxGeometry height="1070" width="760" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="メニュー" vertex="1">
+          <mxGeometry height="70" width="220" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="注文状況を見る" vertex="1">
+          <mxGeometry height="70" width="220" x="530" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=1;fontSize=24;fontColor=light-dark(#000000,#000000);" value="ドリンク" vertex="1">
+          <mxGeometry height="50" width="200" x="70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="210" width="680" x="74" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="670" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=1" value="ブレンドコーヒー" vertex="1">
+          <mxGeometry height="30" width="200" x="90" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=0" value="400円" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;fontStyle=0" value="深煎りの豆を注文のたびに、一杯ずつ入れます" vertex="1">
+          <mxGeometry height="30" width="430" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="個数" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=20;fontColor=light-dark(#000000,#000000);" value="カートに入れる" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="210" width="680" x="74" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=1" value="カフェラテ" vertex="1">
+          <mxGeometry height="30" width="200" x="90" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;fontStyle=0" value="ミルクをたっぷり合わせた、飲みやすい一杯です。" vertex="1">
+          <mxGeometry height="30" width="470" x="90" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="個数 (選べません)" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=20;fontColor=light-dark(#000000,#000000);" value="カートに入れる (押せません)" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=0" value="400円" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=1;fontSize=24;fontColor=light-dark(#000000,#000000);" value="売り切れ" vertex="1">
+          <mxGeometry height="50" width="200" x="314" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=1;fontSize=24;fontColor=light-dark(#000000,#000000);" value="フード" vertex="1">
+          <mxGeometry height="50" width="200" x="70" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=1" value="ブレンドコーヒー" vertex="1">
+          <mxGeometry height="30" width="200" x="90" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;fontStyle=0" value="深煎りの豆を注文のたびに、一杯ずつ入れます" vertex="1">
+          <mxGeometry height="30" width="430" x="90" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="個数" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=20;fontColor=light-dark(#000000,#000000);" value="カートに入れる" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=0" value="400円" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="210" width="680" x="74" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=1" value="クロワッサン" vertex="1">
+          <mxGeometry height="30" width="200" x="90" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=20;fontStyle=0" value="朝に焼き上げた、バタークロワッサンです。" vertex="1">
+          <mxGeometry height="30" width="430" x="90" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=24;fontColor=light-dark(#000000,#000000);" value="個数" vertex="1">
+          <mxGeometry height="70" width="220" x="90" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=4;fontSize=20;fontColor=light-dark(#000000,#000000);" value="カートに入れる" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);fontSize=24;fontStyle=0" value="250円" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="yuEvlZflwEZV-v_yrI04-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=light-dark(#000000,#000000);" value="以下同じ" vertex="1">
+          <mxGeometry height="30" width="94" x="367" y="1050" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

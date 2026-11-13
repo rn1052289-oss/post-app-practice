@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="LBIb5_n3BflhKCr9ecqo">
+    <mxGraphModel dx="1204" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="600" width="800" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;" value="users" vertex="1">
+          <mxGeometry height="80" width="280" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;" value="categories" vertex="1">
+          <mxGeometry height="80" width="280" x="40" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-4" edge="1" parent="1" source="DAM_PyPYDGaKGRxzSc7_-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="DAM_PyPYDGaKGRxzSc7_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-7" connectable="0" parent="DAM_PyPYDGaKGRxzSc7_-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontSize=16;" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;一人のユーザーは、&lt;/span&gt;&lt;div&gt;&lt;div&gt;複数の投稿を書く&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.116" y="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-5" edge="1" parent="1" source="DAM_PyPYDGaKGRxzSc7_-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="DAM_PyPYDGaKGRxzSc7_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-8" connectable="0" parent="DAM_PyPYDGaKGRxzSc7_-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);fontSize=16;" value="一つのカテゴリには、&lt;div&gt;複数の投稿が属する&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0725" y="1" as="geometry">
+            <mxPoint x="-14" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAM_PyPYDGaKGRxzSc7_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;" value="posts" vertex="1">
+          <mxGeometry height="80" width="280" x="520" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

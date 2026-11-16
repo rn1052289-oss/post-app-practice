@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="ページ-1" id="jt1mvbHNvlJ0t8w2lylD">
+    <mxGraphModel dx="1696" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);gradientColor=default;" value="" vertex="1">
+          <mxGeometry height="760" width="1180" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);strokeWidth=4;fillColor=light-dark(#FFFFFF,#FFFFFF);fontSize=36;fontColor=light-dark(#000000,#000000);" value="orders" vertex="1">
+          <mxGeometry height="120" width="360" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);strokeWidth=4;fillColor=light-dark(#FFFFFF,#FFFFFF);fontSize=36;fontColor=light-dark(#000000,#000000);" value="products" vertex="1">
+          <mxGeometry height="120" width="360" x="40" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-4" edge="1" parent="1" source="KirJ4CMg4Jpx4sMykJp_-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;strokeWidth=3;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;strokeColor=light-dark(#000000,#000000);" target="KirJ4CMg4Jpx4sMykJp_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-7" connectable="0" parent="KirJ4CMg4Jpx4sMykJp_-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;fontSize=16;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;background-color: rgb(18, 19, 20); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 24px; white-space: pre;&quot;&gt;1件の注文は、&lt;/div&gt;&lt;div style=&quot;background-color: rgb(18, 19, 20); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 24px; white-space: pre;&quot;&gt;1つ以上の注文明細を持つ&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0921" y="3" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-6" edge="1" parent="1" source="KirJ4CMg4Jpx4sMykJp_-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;strokeColor=light-dark(#000000,#000000);strokeWidth=3;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToMany;startFill=0;" target="KirJ4CMg4Jpx4sMykJp_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-8" connectable="0" parent="KirJ4CMg4Jpx4sMykJp_-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=16;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="&lt;div style=&quot;color: rgb(187, 190, 191); background-color: rgb(18, 19, 20); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 24px; white-space: pre;&quot;&gt;1つの商品は、&lt;/div&gt;&lt;div style=&quot;color: rgb(187, 190, 191); background-color: rgb(18, 19, 20); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 24px; white-space: pre;&quot;&gt;複数の注文明細に現れることがある&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0685" y="-4" as="geometry">
+            <mxPoint x="23" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KirJ4CMg4Jpx4sMykJp_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);strokeWidth=4;fillColor=light-dark(#FFFFFF,#FFFFFF);fontSize=36;fontColor=light-dark(#000000,#000000);" value="orders_items" vertex="1">
+          <mxGeometry height="120" width="360" x="680" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lE3fjtEtE7e3RNLmBxo6" name="ページ-2">
+    <mxGraphModel dx="1204" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

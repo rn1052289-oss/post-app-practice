@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="HkSGduVHxMuANXsfTpoq">
+    <mxGraphModel dx="1241" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m2l_a01BdHng6GxRReOq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="520" width="790" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-10" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-11" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-12" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);strokeWidth=3;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="ルーティング" vertex="1">
+          <mxGeometry height="60" width="130" x="10" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);strokeWidth=3;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="60" width="130" x="360" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-13" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-16" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-8">
+          <mxGeometry relative="1" x="0.0233" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="90" />
+              <mxPoint x="620" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);strokeWidth=3;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="ビュー" vertex="1">
+          <mxGeometry height="60" width="130" x="360" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-14" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);strokeWidth=3;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="認可" vertex="1">
+          <mxGeometry height="60" width="130" x="360" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-15" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="m2l_a01BdHng6GxRReOq-9">
+          <mxGeometry relative="1" x="0.0968" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);strokeWidth=3;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="モデル" vertex="1">
+          <mxGeometry height="60" width="130" x="360" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);strokeWidth=3;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="データベース" vertex="1">
+          <mxGeometry height="60" width="130" x="630" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="m2l_a01BdHng6GxRReOq-17" edge="1" parent="1" source="m2l_a01BdHng6GxRReOq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="m2l_a01BdHng6GxRReOq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device" version="24.7.17">
+  <diagram id="expense-wireframe" name="Page-1">
+    <mxGraphModel dx="1100" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1140" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="SC-03 申請作成画面｜ワイヤーフレーム" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=28;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frame" value="" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="900" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="heading" value="経費を申請する" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=30;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="date-label" value="使った日　必須" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="date" value="" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="265" width="800" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="amount-label" value="金額　必須" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="amount" value="" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="395" width="800" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="category-label" value="費目　必須" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="category" value="交通費 ／ 書籍代 ／ 会議費 ／ その他　▼" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="525" width="800" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="purpose-label" value="用途　必須" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="purpose" value="" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="655" width="800" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="reason-label" value="差し戻しの理由" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="740" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="reason" value="差し戻された申請を書き直すときだけ表示する" style="whiteSpace=wrap;html=0;align=left;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="785" width="800" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="submit" value="提出する" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=24;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="940" width="360" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cancel" value="やめる" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=24;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="940" width="300" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

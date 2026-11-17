@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device" version="24.7.17">
+  <diagram id="expense-screen-flow" name="Page-1">
+    <mxGraphModel dx="2400" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1240" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="経費精算アプリ｜画面遷移図" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=30;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="20" width="2200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-01" value="ログイン画面" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=26;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="120" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-02" value="申請一覧画面" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=26;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="960" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-03" value="申請作成画面" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=26;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1050" width="960" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-04" value="承認待ち一覧画面" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=26;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="450" width="960" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC-05" value="申請詳細画面" style="whiteSpace=wrap;html=0;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=26;fillColor=#ffffff;strokeColor=#222222;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1050" width="960" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="login-applicant" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.0;exitY=0.5;entryX=0.5;entryY=0.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-01" target="SC-02">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="170" as="sourcePoint" />
+            <mxPoint x="580" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="login-applicant-label" value="申請者としてログイン" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="275" width="500" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="login-approver" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=1.0;exitY=0.5;entryX=0.5;entryY=0.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-01" target="SC-04">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="170" as="sourcePoint" />
+            <mxPoint x="1820" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1820" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="login-approver-label" value="承認者としてログイン" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=22;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="275" width="500" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="own-applications" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.0;exitY=0.5;entryX=1.0;entryY=0.5;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-04" target="SC-02">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="500" as="sourcePoint" />
+            <mxPoint x="1060" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="own-applications-label" value="「自分の申請」&#10;を押す" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="415" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="new" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.125;exitY=1.0;entryX=0.125;entryY=0.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-02" target="SC-03">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="550" as="sourcePoint" />
+            <mxPoint x="220" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="new-label" value="「新しく申請する」&#10;を押す" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="105" y="755" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="rewrite" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.375;exitY=1.0;entryX=0.375;entryY=0.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-02" target="SC-03">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="550" as="sourcePoint" />
+            <mxPoint x="460" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rewrite-label" value="差し戻された&#10;申請を選ぶ" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="345" y="755" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="submit" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.625;exitY=0.0;entryX=0.625;entryY=1.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-03" target="SC-02">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1050" as="sourcePoint" />
+            <mxPoint x="700" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="submit-label" value="「提出する」&#10;を押す" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="585" y="755" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="cancel" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.875;exitY=0.0;entryX=0.875;entryY=1.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-03" target="SC-02">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="1050" as="sourcePoint" />
+            <mxPoint x="940" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cancel-label" value="「やめる」&#10;を押す" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="825" y="755" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="select" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.16666666666666666;exitY=1.0;entryX=0.16666666666666666;entryY=0.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-04" target="SC-05">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="550" as="sourcePoint" />
+            <mxPoint x="1500" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="select-label" value="申請を選ぶ" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="755" width="280" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="approve" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=0.0;entryX=0.5;entryY=1.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-05" target="SC-04">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="1050" as="sourcePoint" />
+            <mxPoint x="1820" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="approve-label" value="「承認する」&#10;を押す" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="755" width="280" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="return" value="" style="edgeStyle=none;noEdgeStyle=1;rounded=0;html=0;strokeWidth=2;strokeColor=#222222;startArrow=none;endArrow=block;endFill=1;exitX=0.8333333333333334;exitY=0.0;entryX=0.8333333333333334;entryY=1.0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="SC-05" target="SC-04">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="1050" as="sourcePoint" />
+            <mxPoint x="2140" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="return-label" value="「差し戻す」&#10;を押す" style="text;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Hiragino Sans;fontSize=21;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="755" width="280" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

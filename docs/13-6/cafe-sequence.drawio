@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="NEY-RWYqS8esRj2pe_jL">
+    <mxGraphModel dx="1974" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
+          <mxGeometry height="1160" width="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-7" edge="1" parent="1" source="PPa0GwiJTXlWG09nuzyZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" x="-0.0008" as="geometry">
+            <mxPoint x="160.75" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;fontColor=light-dark(#000000,#000000);labelBorderColor=default;fontSize=28;" value="ブラウザ" vertex="1">
+          <mxGeometry height="80" width="240" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-8" edge="1" parent="1" source="PPa0GwiJTXlWG09nuzyZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" x="0.0001" as="geometry">
+            <mxPoint x="639.916666666667" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;fontColor=light-dark(#000000,#000000);labelBorderColor=default;fontSize=28;" value="アプリ" vertex="1">
+          <mxGeometry height="80" width="240" x="520" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-9" edge="1" parent="1" source="PPa0GwiJTXlWG09nuzyZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" x="-0.0009" as="geometry">
+            <mxPoint x="1119.0833333333335" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;fontColor=light-dark(#000000,#000000);labelBorderColor=default;fontSize=28;" value="データベース" vertex="1">
+          <mxGeometry height="80" width="240" x="1000" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-10" edge="1" parent="1" source="PPa0GwiJTXlWG09nuzyZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=3;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" x="-0.0009" as="geometry">
+            <mxPoint x="1600.333333333334" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);strokeWidth=5;fontColor=light-dark(#000000,#000000);labelBorderColor=default;fontSize=28;" value="外部の決済サービス" vertex="1">
+          <mxGeometry height="80" width="300" x="1450" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="190.44" as="sourcePoint" />
+            <mxPoint x="640" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-14" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="選んだ商品と個数を送る" vertex="1">
+          <mxGeometry relative="1" x="-0.3385" y="3" as="geometry">
+            <mxPoint x="94" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="260.44" as="sourcePoint" />
+            <mxPoint x="1120" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-16" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="商品の値段と売り切れか読む" vertex="1">
+          <mxGeometry relative="1" x="-0.3385" y="3" as="geometry">
+            <mxPoint x="81" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="310.44" as="sourcePoint" />
+            <mxPoint x="1120" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-21" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="商品情報を渡す" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=none;startFill=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="380.44" as="sourcePoint" />
+            <mxPoint x="1120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-23" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="注文と注文明細を書き込む" vertex="1">
+          <mxGeometry relative="1" x="-0.3375" y="3" as="geometry">
+            <mxPoint x="71" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="430.44" as="sourcePoint" />
+            <mxPoint x="1120" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-25" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="書きこめたと返す" vertex="1">
+          <mxGeometry relative="1" x="-0.3375" y="3" as="geometry">
+            <mxPoint x="71" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="500.44" as="sourcePoint" />
+            <mxPoint x="640" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-27" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="注文番号・支払いに進む先に返す" vertex="1">
+          <mxGeometry relative="1" x="-0.3375" y="3" as="geometry">
+            <mxPoint x="94" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="580" as="sourcePoint" />
+            <mxPoint x="1600" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-29" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="支払い手続きをする" vertex="1">
+          <mxGeometry relative="1" x="-0.7776" y="3" as="geometry">
+            <mxPoint x="581" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="650" as="sourcePoint" />
+            <mxPoint x="1600" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-31" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="支払いが済んだことを知らせる" vertex="1">
+          <mxGeometry relative="1" x="-0.6688" y="3" as="geometry">
+            <mxPoint x="201" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="760.44" as="sourcePoint" />
+            <mxPoint x="1120" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-33" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="注文状態を書き換える" vertex="1">
+          <mxGeometry relative="1" x="-0.3385" y="3" as="geometry">
+            <mxPoint x="81" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="850.44" as="sourcePoint" />
+            <mxPoint x="1120" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-35" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="書き換えられたことを返す" vertex="1">
+          <mxGeometry relative="1" x="-0.3375" y="3" as="geometry">
+            <mxPoint x="81" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=none;startFill=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="910.44" as="sourcePoint" />
+            <mxPoint x="640" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-37" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="支払い終了後戻る" vertex="1">
+          <mxGeometry relative="1" x="-0.3375" y="3" as="geometry">
+            <mxPoint x="95" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#000000);strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="980.44" as="sourcePoint" />
+            <mxPoint x="640" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPa0GwiJTXlWG09nuzyZ-39" connectable="0" parent="PPa0GwiJTXlWG09nuzyZ-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=16;fontColor=light-dark(#000000,#000000);" value="注文完了画面を返す" vertex="1">
+          <mxGeometry relative="1" x="-0.3375" y="3" as="geometry">
+            <mxPoint x="95" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
